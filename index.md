@@ -30,33 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/svetlananikitina/svetlananikitina.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 <!DOCTYPE html>
-<html>
-	<head>
-		<title> XX </title>
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm StoryBot!</h1>
-				<p> XXX </p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="xx@gmail.com">email</a></li>
-        		<li><a href="https://github.com/svetlananikitina">github.com/svetlananikitina</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+
 
 ### Support or Contact
 
