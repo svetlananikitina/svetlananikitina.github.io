@@ -46,7 +46,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi there, I'm StoryBot!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+				<p> XXX </p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
